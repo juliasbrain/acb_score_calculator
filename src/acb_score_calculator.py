@@ -23,7 +23,7 @@ def acb_score(medication_df, output_dir=None):
     import numpy as np
 
     # Load the ACB score data
-    progsDir = os.path.dirname(os.getcwd())
+    progsDir = os.getcwd()
     acb_data = pd.read_csv(os.path.join(progsDir, 'data/acb_list.csv'))
 
     # Prepare dataframe
