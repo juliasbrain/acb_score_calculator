@@ -45,7 +45,7 @@ Example:
 
 ### Running the Function:
 
-1. Import the function from the script:
+1. Import the function:
 ```python
 from acb_score_calculator import acb_score
 ```
