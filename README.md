@@ -22,10 +22,10 @@ The function requires a DataFrame containing patient medication data in the foll
 
 Example:
 
-| Subject_ID | Medication01               | Medication02             | Medication03             |
-|------------|----------------------------|--------------------------|--------------------------|
-| sub001     | Amitriptyline: 25mg        | Loperamide: 2mg          | None                     |
-| sub002     | Diphenhydramine: 50mg      | Risperidone: 1mg         | Clonazepam: 0.5mg        |
+| Subject_ID | Medication01             | Medication02             | Medication03             |
+|------------|--------------------------|--------------------------|--------------------------|
+| sub001     | Amitriptyline: 25mg      | Loperamide: 2mg          | None                     |
+| sub002     | Diphenhydramine: 50mg    | Risperidone: 1mg         | Clonazepam: 0.5mg        |
 
 
 ### Output:
