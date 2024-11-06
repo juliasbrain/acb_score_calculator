@@ -21,13 +21,12 @@ The function requires a DataFrame containing patient medication data in the foll
 - **Other columns**: Medication names and doses for each session, formatted as `"Medication: dose"`. Each column represents a different medication for each session.
 
 Example:
-```python
-medication_df = pd.DataFrame({
-    'Subject_ID': ['subject1', 'subject2'],
-    'Medication_1': ['med1: 5mg', 'med2: 10mg'],
-    'Medication_2': [None, 'med3: 2mg']
-})
-```
+
+| Subject_ID | Medication01               | Medication02             | Medication03             |
+|------------|----------------------------|--------------------------|--------------------------|
+| sub001     | Amitriptyline: 25mg        | Loperamide: 2mg          | None                     |
+| sub002     | Diphenhydramine: 50mg      | Risperidone: 1mg         | Clonazepam: 0.5mg        |
+
 
 ### Output:
 The function generates a CSV file with the following columns:
@@ -35,6 +34,14 @@ The function generates a CSV file with the following columns:
 - **'acb_score_total'**: The total ACB score for each patient, calculated based on the medications provided.
 
 The CSV file will be saved in the specified output directory (or the current directory if not specified).
+
+Example:
+
+| Subject_ID | acb_score_total | 
+|------------|-----------------|
+| sub001     | 4               |
+| sub002     | 5               | 
+
 
 ### Running the Function:
 
@@ -45,7 +52,11 @@ from acb_score import acb_score
 
 2. Load the medication data:
 ```python
+# Load csv file:
 medication_df = pd.read_csv(/path/to/medication_df/medication_df.csv')
+
+# Load excel file:
+medication_df = pd.read_excel('/path/to/medication_df.xlsx')
 ```
    
 3. Calculate ACB scores
