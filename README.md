@@ -66,6 +66,6 @@ acb_score(medication_df, output_dir='./output')  # Optional: Specify output dire
    
 ## Data Source
 
-The ACB scores used in this repository are sourced from the Anticholinergic Cognitive Burden (ACB) Calculator available at:
+The ACB scores used in this repository are sourced from the Anticholinergic Burden (ACB) Calculator available at:
 
 https://www.acbcalc.com/
