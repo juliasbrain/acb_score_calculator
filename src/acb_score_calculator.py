@@ -1,8 +1,4 @@
 
-import os
-import pandas as pd
-import numpy as np
-
 def acb_score(medication_df, output_dir=None):
     """
     Function to calculate the Anticholinergic Burden of medication (ACB) for each patient based on their medication data.

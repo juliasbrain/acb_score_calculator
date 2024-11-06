@@ -47,7 +47,7 @@ Example:
 
 1. Import the function from the script:
 ```python
-from acb_score import acb_score
+from acb_score_calculator import acb_score
 ```
 
 2. Load the medication data:
