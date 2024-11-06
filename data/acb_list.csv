@@ -27,36 +27,36 @@ Al hydroxide/mg hydroxide/simethicone,0
 Albumin human,0
 Albuterol,0
 Alclometasone topical,0
-Alendronic acid,0
+Alendronate,0
 Alfuzosin,0
 Alginic acid,0
-Theralen,1
-Alfrased,1
-Itzenal,1
+Alimemazine,1
+Alimemazine,1
+Alimemazine,1
 Aliskiren,0
 Allopurinol,0
 Aloe vera,0
 Alpha-d-galactosidase,0
-Xanax,1
+Alprazolam,1
 Alprostadil,0
 Alteplase,0
 Aluminum acetate topical,0
 Aluminum carbonate,0
 Aluminum hydroxide,0
-Spasmonal,1
-Audmonal,1
+Alverine,1
+Alverine,1
 Alzelaic acid,0
-Symmetrel,1
+Amantadine,1
 Amiloride,0
 Amino acids,0
 Aminophylline,1
 Amiodarone,0
-Elavil,3
+Amitriptyline,3
 Amlodipine,0
 Ammonium lactate topical,0
-Asendin,3
+Amoxapine,3
 Amoxicillin,0
-Co-amoxiclav,0
+Amoxicillin-clavulanate,0
 Amphetamine,0
 Amphotericin b,0
 Ampicillin,1
@@ -68,19 +68,19 @@ Apixaban,0
 Apraclonidine ophthalmic,0
 Apremilast,0
 Arginine,0
-Abilify,1
-Arpoya,1
+Aripiprazole,1
+Aripiprazole,1
 Aripiprazole,0
 Ascorbic acid,0
-Saphris,1
+Asenapine,1
 Aspirin,0
 Atazanavir,0
-Tenormin,0
+Atenolol,0
 Atomoxetine,0
 Atorvastatin,0
-Sal-tropine,3
+Atropine,3
 Attapulgite,0
-Optimine,3
+Azatadine,3
 Azathioprine,0
 Azelastine nasal,1
 Azelastine ophthalmic,1
@@ -98,7 +98,7 @@ Belladonna,3
 Benzocaine topical,0
 Benzocaine/butamben/tetracaine topical,0
 Benzonatate,0
-Cogentin,3
+Benztropine,3
 Beta-carotene,0
 Betahistine,0
 Betaine,0
@@ -126,18 +126,18 @@ Brinzolamide ophthalmic,0
 Bromazepam,0
 Bromhexine,0
 Bromocriptine,1
-Dimetapp,3
-Bromfed,3
-Bromfenax,3
-Dimetane,3
-Lodrone,3
+Brompheniramine,3
+Brompheniramine,3
+Brompheniramine,3
+Brompheniramine,3
+Brompheniramine,3
 Buclizine,3
 Budesonide,0
 Bumetanide,0
 Bupivacaine,0
 Buprenorphine,0
-Wellbutrin,1
-Zyban,1
+Bupropion,1
+Bupropion,1
 Buspirone,0
 Butabarbital,0
 Butalbital,0
@@ -162,15 +162,15 @@ Candesartan,0
 Cannabidiol,0
 Capecitabine,0
 Capsaicin topical,0
-Capoten,1
+Captopril,1
 Carbachol ophthalmic,0
-Tegretol,0
+Carbamazepine,0
 Carbamide peroxide otic,0
 Carbidopa,0
 Carbidopa-levodopa,1
 Carbimazole,0
-Histex,3
-Carbihist,3
+Carbinoxamine,3
+Carbinoxamine,3
 Carboplatin,0
 Carisoprodol,0
 Carmellose,0
@@ -197,7 +197,7 @@ Celecoxib,1
 Cephalexin,0
 Cephalothin,1
 Cerivastatin,0
-Zyrtec,1
+Cetirizine,1
 Cetylpyridinium topical,0
 Cevimeline,0
 Chamomile,0
@@ -210,14 +210,14 @@ Chlordiazepoxide,1
 Chlorhexidine topical,0
 Chloroquine,1
 Chlorothiazide,0
-Piriton,3
-Chlorpheniramine,3
-Chlor-trimeton,3
-Thorazine,3
+Chlorphenamine,3
+Chlorphenamine,3
+Chlorphenamine,3
+Chlorpromazine,3
 Chlorpropamide,0
 Chlorprothixene,3
-Hygroton,1
-Chlorthalidone,1
+Chlortalidone,1
+Chlortalidone,1
 Chlorzoxazone,0
 Cholecalciferol,0
 Cholestyramine,0
@@ -230,7 +230,7 @@ Ciclosporin,1
 Cilastatin,0
 Cilexetil,0
 Cilostazol,0
-Tagamet,1
+Cimetidine,1
 Cinacalcet,0
 Ciprofloxacin,0
 Cisapride,0
@@ -239,28 +239,28 @@ Citalopram,1
 Citric acid,0
 Clarithromycin,0
 Clavulanate,0
-Tavist,3
-Librax,3
+Clemastine,3
+Clidinium,3
 Clindamycin,1
 Clindamycin cream or gel,0
 Clobazam,0
 Clobetasol topical,0
 Clodronate,0
 Clofazimine,0
-Anafranil,3
+Clomipramine,3
 Clonazepam,1
 Clonidine,0
 Clopidogrel,0
-Tranxene,1
+Clorazepate,1
 Clotrimazole,0
 Cloxacillin,0
-Clozaril,3
-Zapain,0
+Clozapine,3
+Co-codamol,0
 Coal tar topical,0
 Cod liver oil,0
-Contin,0
-Ubidecarenone,0
-Colcrys,0
+Codeine,0
+Coenzyme q10,0
+Colchicine,0
 Colecalciferol,0
 Colesevelam,0
 Colestipol,0
@@ -272,16 +272,16 @@ Corticosterone,1
 Cortisone,1
 Cosyntropin,0
 Cranberry,0
-Sodium cromoglycate,0
+Cromolyn,0
 Curcumin,0
 Cyanocobalamin,0
 Cyclizine,3
-Flexeril,3
+Cyclobenzaprine,3
 Cyclophosphamide,0
 Cycloserine,1
-Ciclosporin eye drops,0
-Ciclosporin,1
-Periactin,3
+Cyclosporin eye drops,0
+Cyclosporine,1
+Cyproheptadine,3
 Cyproterone acetate,0
 Dabigatran,0
 Dalteparin,0
@@ -292,13 +292,13 @@ Dapagiflozin,0
 Dapsone,0
 Daptomycin,0
 Darbepoetin alfa,0
-Enablex,3
+Darifenacin,3
 Darunavir,0
 Dehydroepiandrosterone,0
 Demeclocycline,0
 Denosumab,0
-Norpramin,3
-Clarinex,1
+Desipramine,3
+Desloratadine,1
 Desmopressin,0
 Desonide topical,0
 Desoximetasone topical,0
@@ -312,32 +312,32 @@ Dexchlorpheniramine,3
 Dexlansoprazole,0
 Dextroamphetamine,0
 Dextromethorphan,1
-Valium,1
+Diazepam,1
 Dibucaine topical,0
 Diclofenac,0
 Diclofenac-misoprostol,0
 Dicloxacillin,0
-Bentyl,3
-Dicylomine,3
+Dicycloverine,3
+Dicycloverine,3
 Didanosine,0
 Dienestrol topical,0
 Diflunisal,0
 Digitoxin,1
-Lanoxin,1
+Digoxin,1
 Dihydroxyaluminum sodium carbonate,0
 Diltiazem,0
-Dramamine,3
+Dimenhydrinate,3
 Dimeticone,0
 Dimetindene,1
-Benadryl,3
-Nytol,3
-Sleepeaze,3
+Diphenhydramine,3
+Diphenhydramine,3
+Diphenhydramine,3
 Diphenhydramine cream,1
 Diphenoxylate,0
 Dipivefrin ophthalmic,0
-Persantine,0
+Dipyridamole,0
 Dirithromycin,0
-Norpace,2
+Disopyramide,2
 Disulfiram,0
 Divalproex sodium,0
 Dobutamine,0
@@ -349,12 +349,12 @@ Domperidone,0
 Donepezil,0
 Dopamine,0
 Dorzolamide ophthalmic,0
-Dothiepin,3
+Dosulepin,3
 Doxazosin,0
-Sinequan,3
+Doxepin,3
 Doxercalciferol,0
 Doxycycline,0
-Unisom,3
+Doxylamine,3
 Dronedarone,0
 Dulaglutide,0
 Duloxetine,0
@@ -388,12 +388,12 @@ Ergotamine,1
 Erlotinib,0
 Ertapenem,0
 Erythromycin,0
-Lexapro,1
+Escitalopram,1
 Esomeprazole,0
 Estazolam,0
 Esterified estrogens,0
-Oestradiol,0
-Estriol,0
+Estradiol,0
+Estradiol,0
 Estradiol topical,0
 Estriol,0
 Estropipate,0
@@ -401,7 +401,7 @@ Eszopiclone,0
 Etanercept,0
 Ethambutol,0
 Ethinyl estradiol,0
-Etidronic acid,0
+Etidronate,0
 Etodolac,0
 Etomidate,0
 Etoposide,0
@@ -419,17 +419,17 @@ Felbamate,0
 Felodipine,0
 Fenofibrate,0
 Fenoprofen,0
-Duragesic,1
-Actiq,1
+Fentanyl,1
+Fentanyl,1
 Fentanyl topical,1
 Ferrous fumarate,0
 Ferrous gluconate,0
 Ferrous sulfate,0
-Toviaz,3
+Fesoterodine,3
 Fexofenadine,0
 Filgrastim,0
 Finasteride,0
-Urispas,3
+Flavoxate,3
 Flax,0
 Flecainide,0
 Flucloxacillin,0
@@ -453,13 +453,13 @@ Flutamide,0
 Fluticasone,0
 Fluticasone-salmeterol,0
 Fluvastatin,0
-Luvox,1
+Fluvoxamine,1
 Folic acid,0
 Formoterol,0
 Fosinopril,0
 Fosphenytoin,0
-Framycetin sulfate,0
-Lasix,0
+Framycetin sulphate,0
+Furosemide,0
 Gabapentin,0
 Galantamine,0
 Ganciclovir,0
@@ -467,14 +467,14 @@ Garlic,0
 Gatifloxacin,0
 Gemfibrozil,0
 Gemifloxacin,0
-Gentamycin,1
+Gentamicin,1
 Gentamicin ophthalmic,0
 Gentamicin topical,0
 Ginger,0
 Ginkgo,0
 Ginseng,0
 Glatiramer,0
-Glyburide,0
+Glibenclamide,0
 Gliclazide,0
 Glimepiride,0
 Glipizide,0
@@ -483,11 +483,11 @@ Glucosamine,0
 Glucose,0
 Glutamic acid,0
 Glyburide,0
-Gtn,0
+Glyceril trinitrate,0
 Glycerin,0
 Glycine,0
 Glycopyrronium - inhaled,1
-Glycopyrrolate,3
+Glycopyrronium injectable,3
 Goserelin,0
 Gotu kola,0
 Gramicidin ophthalmic,0
@@ -499,7 +499,7 @@ Guanabenz,0
 Guanfacine,0
 Halcinonide topical,0
 Halobetasol topical,0
-Haldol,1
+Haloperidol,1
 Hawthorn,0
 Heme iron polypeptide,0
 Heparin,0
@@ -510,11 +510,11 @@ Homatropine,3
 Homatropine ophthalmic,2
 Horse chestnut,0
 Huperzine,0
-Apresoline,1
+Hydralazine,1
 Hydrochlorothiazide,0
 Hydrocodone,0
-Cortef,1
-Cortaid,1
+Hydrocortisone,1
+Hydrocortisone,1
 Hydrocortisone ophthalmic,0
 Hydrocortisone otic,0
 Hydrocortisone topical,0
@@ -524,16 +524,16 @@ Hydroxychloroquine,0
 Hydroxypropyl methylcellulose ophthalmic,0
 Hydroxyquinoline topical,0
 Hydroxyurea,0
-Atarax,1
-Vistaril,1
-Butylscopolamine,3
-Kwells,3
-Scopoderm,3
-Joy-rides,3
-Travel calm,3
-Scopolamine,3
-Anaspaz,3
-Levsin,3
+Hydroxyzine,1
+Hydroxyzine,1
+Hyoscine butylbromide,3
+Hyoscine hydrobromide,3
+Hyoscine hydrobromide,3
+Hyoscine hydrobromide,3
+Hyoscine hydrobromide,3
+Hyoscine hydrobromide,3
+Hyoscyamine,3
+Hyoscyamine,3
 Hypromellose,0
 Ibandronate,0
 Ibuprofen,0
@@ -541,7 +541,7 @@ Iloperidone,1
 Imatinib,0
 Imipenem,0
 Imipenem-cilastatin,0
-Tofranil,3
+Imipramine,3
 Imiquimod topical,0
 Immune globulin intramuscular,0
 Immune globulin intravenous,0
@@ -565,8 +565,8 @@ Iron polysaccharide,0
 Isoniazid,0
 Isopropyl alcohol topical,0
 Isosorbide,1
-Isordil,1
-Ismo,1
+Isosorbide dinitrate,1
+Isosorbide mononitrate,1
 Isotretinoin,0
 Isradipine,0
 Itraconazole,0
@@ -602,7 +602,7 @@ Levetiracetam,0
 Levmetamfetamine nasal,0
 Levobunolol ophthalmic,0
 Levocarnitine,0
-Xyzal,1
+Levocetirizine,1
 Levodopa,1
 Levofloxacin,0
 Levomepromazine,3
@@ -620,14 +620,14 @@ Liraglutide,0
 Lisinopril,0
 Lithium,1
 Lodoxamide ophthalmic,0
-Immodium,1
+Loperamide,1
 Loracarbef,0
-Claritin,1
-Ativan,1
+Loratadine,1
+Lorazepam,1
 Losartan,0
 Loteprednol ophthalmic,0
 Lovastatin,0
-Loxitane,2
+Loxapine,2
 Lubiprostone,0
 Lutein,0
 Lvp solution,0
@@ -648,7 +648,7 @@ Manganese,0
 Mannitol,0
 Maprotiline,2
 Mebeverine,0
-Antivert,1
+Meclizine,1
 Medroxyprogesterone,0
 Mefloquine,0
 Megestrol,0
@@ -662,7 +662,7 @@ Meprobamate,0
 Mequinol,0
 Mercaptopurine,0
 Meropenem,0
-Mesalamine,0
+Mesalazine,0
 Mesoridazine,2
 Mestranol,0
 Metaproterenol,0
@@ -673,9 +673,9 @@ Methazolamide,0
 Methenamine,0
 Methenamine-sodium biphosphate,0
 Methimazole,0
-Robaxin,3
+Methocarbamol,3
 Methotrexate,0
-Levoprome,2
+Methotrimeprazine,2
 Methscopolamine,3
 Methyclothiazide,0
 Methyl salicylate topical,0
@@ -690,8 +690,8 @@ Methyltestostone,0
 Metipranolol ophthalmic,0
 Metoclopramide,0
 Metolazone,0
-Lopressor,0
-Toprol,0
+Metoprolol,0
+Metoprolol,0
 Metronidazole,0
 Mexiletine,0
 Mianserin,0
@@ -708,13 +708,13 @@ Mirtazapine,1
 Misoprostol,0
 Modafinil,0
 Moexipril,0
-Moban,0
+Molindone,0
 Mometasone,0
 Montelukast,0
 Moricizine,0
-Ms contin,1
-Avinza,1
-Zomorph,1
+Morphine,1
+Morphine,1
+Morphine,1
 Moxifloxacin,0
 Moxonidine,0
 Multivitamin,0
@@ -734,7 +734,7 @@ Naratriptan,1
 Nateglinide,0
 Nebivolol,0
 Nefazodone,0
-Nefogesic,2
+Nefopam,2
 Neomycin,1
 Neomycin ophthalmic,0
 Neomycin topical,0
@@ -745,8 +745,8 @@ Niacin,0
 Nicardipine,0
 Nicotinamide riboside,0
 Nicotine,0
-Procardia,0
-Adalat,0
+Nifedipine,0
+Nifedipine,0
 Nimodipine,0
 Nisoldipine,0
 Nitrazepam,1
@@ -755,14 +755,14 @@ Nitroglycerin,0
 Nitroprusside,0
 Nizatidine,1
 Norepinephrine,0
-Norethindrone,0
+Norethisterone,0
 Norfloxacin,0
-Pamelor,3
+Nortriptyline,3
 Nystatin,0
 Octreotide,0
 Ocular lubricant,0
 Ofloxacin,0
-Zyprexa,3
+Olanzapine,3
 Olmesartan,0
 Olodaterol,0
 Olopatadine ophthalmic,1
@@ -772,17 +772,17 @@ Omeprazole,1
 Ondansetron,0
 Opipramol,2
 Orlistat,0
-Norflex,3
+Orphenadrine,3
 Orthosilicic acid,0
 Oseltamivir,0
 Oxaprozin,0
 Oxazepam,1
-Trileptal,0
+Oxcarbazepine,0
 Oxiconazole topical,0
-Ditropan,3
+Oxybutynin,3
 Oxycodone,1
 Oxymetazoline nasal,0
-Invega,0
+Paliperidone,0
 Pamabrom,0
 Pamidronate,0
 Pancrelipase,0
@@ -793,7 +793,7 @@ Papaverine,0
 Papaya,0
 Paracetamol,0
 Paricalcitol,0
-Paxil,3
+Paroxetine,3
 Pectin,0
 Penicillin,0
 Pentazocine,0
@@ -802,16 +802,16 @@ Pergolide,0
 Pericyazine,3
 Perindopril,0
 Permethrin topical,0
-Trilafon,2
-Demerol,2
-Meperidine,2
+Perphenazine,2
+Pethidine,2
+Pethidine,2
 Petrolatum topical,0
 Phenazopyridine,0
 Phenelzine,1
 Phenindamine,3
 Pheniramine,3
 Pheniramine ophthalmic,1
-Phenobarbital,1
+Phenobarbitol,1
 Phenol topical,0
 Phenolphthalein,0
 Phentermine,0
@@ -823,10 +823,10 @@ Phenyltoloxamine,3
 Phenytoin,0
 Phosphatidyl serine,0
 Phosphorated carbohydrate solution,0
-Vitamin k,0
+Phytonadione,0
 Pilocarpine,0
 Pimecrolimus topical,0
-Orap,2
+Pimozide,2
 Pindolol,0
 Pioglitazone,0
 Piperacillin,1
@@ -854,9 +854,9 @@ Pramoxine topical,0
 Pramoxine-zinc oxide topical,0
 Pravastatin,0
 Prazosin,0
-Deltasone,1
-Sterapred,1
-Prednisone,1
+Prednisolone,1
+Prednisolone,1
+Prednisolone,1
 Prednisolone eye drops,0
 Pregabalin,0
 Pregnenolone,0
@@ -868,10 +868,10 @@ Procainamide,1
 Prochlorperazine,1
 Procyclidine,3
 Progesterone,0
-Phenergan,3
+Promethazine,3
 Propafenone,0
-Pro-banthine,3
-Detrunorm,3
+Propantheline,3
+Propiverine,3
 Propofol,0
 Propoxyphene,0
 Propranolol,0
@@ -887,16 +887,16 @@ Pyrazinamide,0
 Pyridostigmine,0
 Pyridoxine,0
 Pyrilamine,3
-Seroquel,3
+Quetiapine,3
 Quinapril,0
-Quinaglute,1
+Quinidine,1
 Quinine,0
 Quinine phenylethylbarbiturate,0
 Rabeprazole,0
 Raloxifene,0
 Ramelteon,0
 Ramipril,0
-Zantac,1
+Ranitidine,1
 Rasagiline,0
 Reboxetine,0
 Red yeast rice,0
@@ -910,7 +910,7 @@ Rilpivirine,0
 Rimantadine,0
 Rimexolone ophthalmic,0
 Risedronate,0
-Risperdal,1
+Risperidone,1
 Ritonavir,0
 Rivaroxaban,0
 Rivastigmine,0
@@ -923,7 +923,7 @@ Rotigotine,1
 Roxythromycin,0
 Royal jelly,0
 S-adenosylmethionine,0
-Albuterol,0
+Salbutamol,0
 Salicylamide,0
 Salicylic acid topical,0
 Salmeterol,0
@@ -937,7 +937,7 @@ Scopolamine topical,3
 Selegiline,1
 Selenium,0
 Senna,0
-Zoloft,1
+Sertraline,1
 Sevelamer,0
 Shark cartilage,0
 Sibutramine,0
@@ -960,7 +960,7 @@ Sodium phosphate,0
 Sodium picosulfate,0
 Sodium polystyrene sulfonate,0
 Sofosbuvir,0
-Vesicare,3
+Solifenacin,3
 Sorbitol,0
 Sotalol,0
 Spironolactone,0
@@ -1003,15 +1003,15 @@ Tetanus-diphtheria toxoids,0
 Tetracycline,0
 Tetrahydrozoline ophthalmic,0
 Thalidomide,0
-Theodur,1
-Uniphyl,1
+Theophylline,1
+Theophylline,1
 Thiamazole,0
 Thiamine,0
-Mellaril,3
+Thioridazine,3
 Thiothixene,0
 Thonzonium bromide otic,0
 Thyrotropin alpha,0
-Levothyroxine,0
+Thyroxine,0
 Tiagabine,1
 Tiaprofenic acid,0
 Tibolone,0
@@ -1027,7 +1027,7 @@ Tolazamide,0
 Tolbutamide,0
 Tolcapone,0
 Tolmetin,0
-Detrol,3
+Tolterodine,3
 Topiramate,0
 Torsemide,0
 Tramadol,2
@@ -1035,34 +1035,34 @@ Trandolapril,1
 Tranexamic acid,0
 Tranylcypromine,1
 Travoprost ophthalmic,0
-Desyrel,0
+Trazodone,0
 Tretinoin topical,0
 Triamcinolone,1
 Triamcinolone nasal,0
 Triamcinolone topical,0
-Dyrenium,1
+Triamterene,1
 Triazolam,1
 Tribulus terrestris,0
 Trichlormethiazide,0
 Triethanolamine polypeptide oleate otic,0
-Stelazine,2
+Trifluoperazine,2
 Trifluperidol,0
 Triflupromazine,3
-Artane,3
+Trihexyphenidyl,3
 Trimethobenzamide,3
 Trimethoprim,0
-Surmontil,3
+Trimipramine,3
 Triprolidine,3
 Troglitazone,0
 Trolamine salicylate topical,0
 Tropisetron,0
-Sanctura,3
-Regurin,3
+Trospium,3
+Trospium,3
 Trypsin,0
 Trypsin topical,0
 Tuberculin purified protein derivative,0
 Turmeric,0
-Co-enzyme q10,0
+Ubiquinone,0
 Umeclidinium,1
 Unoprostone ophthalmic,0
 Urea topical,0
@@ -1070,8 +1070,8 @@ Ursodiol,0
 Valacyclovir,0
 Valdecoxib,0
 Valerian,0
-Depakote,1
-Sodium valproate,1
+Valproic acid,1
+Valproic acid,1
 Valsartan,0
 Vancomycin,1
 Vardenafil,0
@@ -1080,7 +1080,7 @@ Vasopressin,0
 Vecuronium,0
 Velpatasvir,0
 Vemurafenib,0
-Effexor,1
+Venlafaxine,1
 Verapamil,0
 Vigabatrin,0
 Vilanterol,0
@@ -1092,7 +1092,7 @@ Vitamin a & d topical,0
 Vitamin e,0
 Voriconazole,0
 Vortioxetine,0
-Coumadin,0
+Warfarin,0
 Wheat dextrin,0
 Wild yam,0
 Witch hazel topical,0
@@ -1108,5 +1108,167 @@ Zinc sulfate,0
 Ziprasidone,1
 Zoledronic acid,0
 Zolmitriptan,1
-Zolpidem,0
+Zopiclone,0
 Zuclopenthixol,1
+Alendronic acid,0
+Theralen,1
+Alfrased,1
+Itzenal,1
+Xanax,1
+Spasmonal,1
+Audmonal,1
+Symmetrel,1
+Elavil,3
+Asendin,3
+Co-amoxiclav,0
+Abilify,1
+Arpoya,1
+Saphris,1
+Tenormin,0
+Sal-tropine,3
+Optimine,3
+Cogentin,3
+Dimetapp,3
+Bromfed,3
+Bromfenax,3
+Dimetane,3
+Lodrone,3
+Wellbutrin,1
+Zyban,1
+Capoten,1
+Tegretol,0
+Histex,3
+Carbihist,3
+Zyrtec,1
+Piriton,3
+Chlorpheniramine,3
+Chlor-trimeton,3
+Thorazine,3
+Hygroton,1
+Chlorthalidone,1
+Tagamet,1
+Tavist,3
+Librax,3
+Anafranil,3
+Tranxene,1
+Clozaril,3
+Zapain,0
+Contin,0
+Ubidecarenone,0
+Colcrys,0
+Sodium cromoglycate,0
+Flexeril,3
+Ciclosporin eye drops,0
+Ciclosporin,1
+Periactin,3
+Enablex,3
+Norpramin,3
+Clarinex,1
+Valium,1
+Bentyl,3
+Dicylomine,3
+Lanoxin,1
+Dramamine,3
+Benadryl,3
+Nytol,3
+Sleepeaze,3
+Persantine,0
+Norpace,2
+Dothiepin,3
+Sinequan,3
+Unisom,3
+Lexapro,1
+Oestradiol,0
+Estriol,0
+Etidronic acid,0
+Duragesic,1
+Actiq,1
+Toviaz,3
+Urispas,3
+Luvox,1
+Framycetin sulfate,0
+Lasix,0
+Gentamycin,1
+Glyburide,0
+Gtn,0
+Glycopyrrolate,3
+Haldol,1
+Apresoline,1
+Cortef,1
+Cortaid,1
+Atarax,1
+Vistaril,1
+Butylscopolamine,3
+Kwells,3
+Scopoderm,3
+Joy-rides,3
+Travel calm,3
+Scopolamine,3
+Anaspaz,3
+Levsin,3
+Tofranil,3
+Isordil,1
+Ismo,1
+Xyzal,1
+Immodium,1
+Claritin,1
+Ativan,1
+Loxitane,2
+Antivert,1
+Mesalamine,0
+Robaxin,3
+Levoprome,2
+Lopressor,0
+Toprol,0
+Moban,0
+Ms contin,1
+Avinza,1
+Zomorph,1
+Nefogesic,2
+Procardia,0
+Adalat,0
+Norethindrone,0
+Pamelor,3
+Zyprexa,3
+Norflex,3
+Trileptal,0
+Ditropan,3
+Invega,0
+Paxil,3
+Trilafon,2
+Demerol,2
+Meperidine,2
+Phenobarbital,1
+Vitamin k,0
+Orap,2
+Deltasone,1
+Sterapred,1
+Prednisone,1
+Phenergan,3
+Pro-banthine,3
+Detrunorm,3
+Seroquel,3
+Quinaglute,1
+Zantac,1
+Risperdal,1
+Albuterol,0
+Zoloft,1
+Vesicare,3
+Theodur,1
+Uniphyl,1
+Mellaril,3
+Levothyroxine,0
+Detrol,3
+Desyrel,0
+Dyrenium,1
+Stelazine,2
+Artane,3
+Surmontil,3
+Sanctura,3
+Regurin,3
+Co-enzyme q10,0
+Depakote,1
+Sodium valproate,1
+Effexor,1
+Coumadin,0
+Zolpidem,0
