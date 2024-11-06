@@ -1,4 +1,4 @@
-# ACB Score Calculator
+# ACB Score Calculator 💊
 
 This Python tool calculates the Anticholinergic Burden (ACB) score for patients based on their medication.
 
