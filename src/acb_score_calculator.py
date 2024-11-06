@@ -23,10 +23,9 @@ def acb_score(medication_df, output_dir=None):
     import numpy as np
 
     # Load the ACB score data
-    progsDir = os.getcwd()
-    acb_data = pd.read_csv(os.path.join(progsDir, 'data/acb_list.csv'))
+    acb_data = pd.read_csv(os.path.join(os.path.realpath('.'), 'acb_list.csv'))
 
-    # Prepare dataframe
+    # Prepare Input dataframe
     df = medication_df.copy()
     df.iloc[:, 1] = df.iloc[:, 1].fillna("0: 0")  # Set zero for patients without medication
     df = df.melt(id_vars='Subject_ID', var_name='Medication', value_name='medication')  # Create longitudinal df
