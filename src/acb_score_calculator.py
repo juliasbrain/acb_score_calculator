@@ -43,7 +43,7 @@ def acb_score(medication_df, output_dir=None):
 
     # Set output directory to current directory if not specified
     if not output_dir:
-        output_dir = os.getcwd()
+        output_dir = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
 
     # Save output as CSV
     output_path = os.path.join(output_dir, 'medication_acb.csv')
