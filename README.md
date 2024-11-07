@@ -66,6 +66,6 @@ acb_score(medication_df, output_dir='./output')  # Optional: Specify output dire
    
 ## Data Source
 
-The ACB scores used in this repository are sourced from the Anticholinergic Burden (ACB) Calculator available at:
+The ACB scores used in this repository are sourced from the German Anticholinergic Burden (ACB) score developed by Kiesel et al., 2018 [1].
 
-https://www.acbcalc.com/
+[1] Kiesel EK, Hopf YM, Drey M. An anticholinergic burden score for German prescribers: score development. BMC Geriatr. 2018 Oct 11;18(1):239. doi: 10.1186/s12877-018-0929-6. PMID: 30305048; PMCID: PMC6180424.
