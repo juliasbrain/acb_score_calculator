@@ -23,7 +23,7 @@ def acb_score(medication_df, output_dir=None):
     import numpy as np
 
     # Load the ACB score data
-    acb_data = pd.read_csv(os.path.join(os.path.realpath('.'), 'acb_list.csv'))
+    acb_data = pd.read_csv(os.path.join(os.path.realpath('.'), 'acb_score_Kiesel2018.csv'))
 
     # Prepare Input dataframe
     df = medication_df.copy()
