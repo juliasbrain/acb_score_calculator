@@ -2,7 +2,7 @@
 def acb_score(medication_df, output_dir=None):
     """
     Function to calculate the Anticholinergic Burden of medication (ACB) for each patient based on their medication data.
-    The ACB scores are sourced from the Anticholinergic Burden (ACB) Calculator available at: https://www.acbcalc.com/
+    The ACB scores are sourced from the German Anticholinergic Burden (ACB) score developed by Kiesel et al., 2018 [doi: 10.1186/s12877-018-0929-6].
 
     Args:
         medication_df (pd.DataFrame): A pandas DataFrame containing patient medication data with the following format:
